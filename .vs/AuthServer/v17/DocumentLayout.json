@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|d:\\my practice\\github\\dotnet core\\authentication service\\authserver\\webapi\\migrations\\20240617085212_create initial tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4016A073-041C-4033-B25B-8B29D035B612}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20240617085212_create initial tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:28:16.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240617085212_create initial tables.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Migrations\\20240617085212_create initial tables.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240617085212_create initial tables.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Migrations\\20240617085212_create initial tables.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240617085212_create initial tables.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:52:12.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T08:48:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\LoginModel.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\LoginModel.cs",
+              "RelativeToolTip": "WebAPI\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:39:16.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\RegisterModel.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\RegisterModel.cs",
+              "RelativeToolTip": "WebAPI\\Model\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:38:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:36:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T08:35:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:30:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\My practice\\gitHub\\Dotnet Core\\Authentication Service\\AuthServer\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:28:41.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
