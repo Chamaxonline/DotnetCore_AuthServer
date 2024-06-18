@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{4016A073-041C-4033-B25B-8B29D035B612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{4016A073-041C-4033-B25B-8B29D035B612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Test", "TestAuth\AuthServer.Test.csproj", "{9C7A56BD-23B4-4898-BB8E-F0FA6EB01C6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4016A073-041C-4033-B25B-8B29D035B612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4016A073-041C-4033-B25B-8B29D035B612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4016A073-041C-4033-B25B-8B29D035B612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7A56BD-23B4-4898-BB8E-F0FA6EB01C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7A56BD-23B4-4898-BB8E-F0FA6EB01C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7A56BD-23B4-4898-BB8E-F0FA6EB01C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7A56BD-23B4-4898-BB8E-F0FA6EB01C6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
